@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (generated at runtime — don't commit real student data)
+school.db
+test_school.db
+
+# Exported reports (generated at runtime)
+exports/
+
+# Environment / editor
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
