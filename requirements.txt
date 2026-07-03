@@ -1,0 +1,6 @@
+# This project uses only Python's standard library (sqlite3, hashlib, csv, os).
+# No external packages are required.
+# If you later add features like Matplotlib charts or a Flask web version,
+# list those dependencies here, e.g.:
+# matplotlib==3.9.0
+# flask==3.0.3
